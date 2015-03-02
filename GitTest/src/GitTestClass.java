@@ -6,6 +6,7 @@ public class GitTestClass {
 		for (int i = 0; i < 5; i++) {
 			System.out.println("Hej world");
 		}
+		System.out.println("Jag har även lagt till detta sist");
 
 	}
 
